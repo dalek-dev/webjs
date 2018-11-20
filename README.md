@@ -1,1 +1,1 @@
-# Sitio Web usando Machine Learning con Firebase, base de datos con GraphQL
+# Sitio Web en nodejs, reactjs, GraphQl, y MongoDB.
